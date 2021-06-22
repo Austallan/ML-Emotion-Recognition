@@ -1,0 +1,13 @@
+D:\Abertay Uni Stuff\Computing\3rd year\304\AI part 2\MLApp2\MLApp2\MLApp2\bin\x86\Debug\netcoreapp2.1\DlibDotNetNative.dll
+D:\Abertay Uni Stuff\Computing\3rd year\304\AI part 2\MLApp2\MLApp2\MLApp2\bin\x86\Debug\netcoreapp2.1\DlibDotNetNativeDnn.dll
+D:\Abertay Uni Stuff\Computing\3rd year\304\AI part 2\MLApp2\MLApp2\MLApp2\bin\x86\Debug\netcoreapp2.1\MLApp2.deps.json
+D:\Abertay Uni Stuff\Computing\3rd year\304\AI part 2\MLApp2\MLApp2\MLApp2\bin\x86\Debug\netcoreapp2.1\MLApp2.runtimeconfig.json
+D:\Abertay Uni Stuff\Computing\3rd year\304\AI part 2\MLApp2\MLApp2\MLApp2\bin\x86\Debug\netcoreapp2.1\MLApp2.runtimeconfig.dev.json
+D:\Abertay Uni Stuff\Computing\3rd year\304\AI part 2\MLApp2\MLApp2\MLApp2\bin\x86\Debug\netcoreapp2.1\MLApp2.dll
+D:\Abertay Uni Stuff\Computing\3rd year\304\AI part 2\MLApp2\MLApp2\MLApp2\bin\x86\Debug\netcoreapp2.1\MLApp2.pdb
+D:\Abertay Uni Stuff\Computing\3rd year\304\AI part 2\MLApp2\MLApp2\MLApp2\obj\x86\Debug\netcoreapp2.1\MLApp2.csprojAssemblyReference.cache
+D:\Abertay Uni Stuff\Computing\3rd year\304\AI part 2\MLApp2\MLApp2\MLApp2\obj\x86\Debug\netcoreapp2.1\MLApp2.csproj.CoreCompileInputs.cache
+D:\Abertay Uni Stuff\Computing\3rd year\304\AI part 2\MLApp2\MLApp2\MLApp2\obj\x86\Debug\netcoreapp2.1\MLApp2.AssemblyInfoInputs.cache
+D:\Abertay Uni Stuff\Computing\3rd year\304\AI part 2\MLApp2\MLApp2\MLApp2\obj\x86\Debug\netcoreapp2.1\MLApp2.AssemblyInfo.cs
+D:\Abertay Uni Stuff\Computing\3rd year\304\AI part 2\MLApp2\MLApp2\MLApp2\obj\x86\Debug\netcoreapp2.1\MLApp2.dll
+D:\Abertay Uni Stuff\Computing\3rd year\304\AI part 2\MLApp2\MLApp2\MLApp2\obj\x86\Debug\netcoreapp2.1\MLApp2.pdb
